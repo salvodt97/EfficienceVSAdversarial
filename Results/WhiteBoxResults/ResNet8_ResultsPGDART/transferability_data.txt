@@ -1,0 +1,5 @@
+Total images: 7637
+H5 tranferability to tflite 1241
+Same perturbation 894. Mean iterations-difference: 7.708053691275167. Median iterations-difference: 3.0. Same iterations 185. Mean pertubation-difference: 1.2270270270270331. Median pertubation-difference: 1.000000000000005. All different 5317
+H5 tranferability to AxC 1064
+Same perturbation 1043. Mean iterations-difference: 8.818791946308725. Median iterations-difference: 4.0. Same iterations 170. Mean pertubation-difference: 1.3058823529411827. Median pertubation-difference: 1.000000000000005. All different 5360

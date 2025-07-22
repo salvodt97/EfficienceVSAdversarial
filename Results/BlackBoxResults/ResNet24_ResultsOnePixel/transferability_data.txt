@@ -1,0 +1,8 @@
+Total images: 972 
+H5 fooled 564 times
+Tflite fooled 191 times by h5
+AXC fooled 192 times by h5
+Tflite fooled 423 times
+AXC fooled 423 times by tflite
+AxC fooled 414 times
+H5 fooled 258 times by AxC

@@ -1,0 +1,6 @@
+PSNR h5 network is not normally distributed with p-value 0.0
+PSNR tflite network is not normally distributed with p-value 0.0
+PSNR axc network is not normally distributed with p-value 0.0
+PSNR h5 and tflite networks are not similar with p-value 0.00012782928625944541
+PSNR h5 and axc networks are not similar with p-value 0.00022616263720143522
+PSNR tflite and axc networks are similar with p-value 0.9633105629639528

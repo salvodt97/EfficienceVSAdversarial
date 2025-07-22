@@ -1,0 +1,12 @@
+Iterations h5 network is not normally distributed with p-value 1.2606122848345266e-159
+Iterations tflite network is not normally distributed with p-value 1.2606122848345266e-159
+Iterations axc network is not normally distributed with p-value 1.2606122848345266e-159
+Iterations h5 and tflite networks are not similar with p-value 3.6047876389337124e-14
+Iterations h5 and axc networks are not similar with p-value 3.22884767217706e-17
+Iterations tflite and axc networks are similar with p-value 0.5098835420416521
+Perturbation h5 network is not normally distributed with p-value 9.256385411205685e-47
+Perturbation tflite network is not normally distributed with p-value 1.2606122848345266e-159
+Perturbation axc network is not normally distributed with p-value 1.2606122848345266e-159
+Perturbation h5 and tflite networks are not similar with p-value 9.182598395744396e-89
+Perturbation h5 and axc networks are not similar with p-value 9.182598395744396e-89
+Perturbation tflite and axc networks are similar with p-value 1.0
